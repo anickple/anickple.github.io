@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://anickple.github.io/sitemap.html.gz
+Sitemap: https://anickple.github.io/app/sitemap.html.gz
+Sitemap: https://anickple.github.io/assets/sitemap.html.gz
+Sitemap: https://anickple.github.io/css/sitemap.html.gz
+Sitemap: https://anickple.github.io/includes/sitemap.html.gz
+Sitemap: https://anickple.github.io/item/sitemap.html.gz
+Sitemap: https://anickple.github.io/src/sitemap.html.gz
